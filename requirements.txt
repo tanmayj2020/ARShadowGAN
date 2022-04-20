@@ -1,7 +1,7 @@
 albumentations==0.5.1
 matplotlib==3.2.1
 numpy==1.18.4
-opencv-python>=3.4.5.20
+opencv-python==4.5.5.64
 piq==0.5.1
 segmentation_models_pytorch==0.1.0
 tensorboard==2.2.1
